@@ -1,0 +1,6 @@
+C:\Users\Evgeniy\Documents\GitHub\expressions\Expression\bin\Debug\Expression.exe.config
+C:\Users\Evgeniy\Documents\GitHub\expressions\Expression\bin\Debug\Expression.exe
+C:\Users\Evgeniy\Documents\GitHub\expressions\Expression\bin\Debug\Expression.pdb
+C:\Users\Evgeniy\Documents\GitHub\expressions\Expression\obj\Debug\Expression.csprojResolveAssemblyReference.cache
+C:\Users\Evgeniy\Documents\GitHub\expressions\Expression\obj\Debug\Expression.exe
+C:\Users\Evgeniy\Documents\GitHub\expressions\Expression\obj\Debug\Expression.pdb

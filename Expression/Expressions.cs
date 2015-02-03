@@ -12,6 +12,7 @@ namespace Expressions
     {
         public string RegNumber { get; set; }
         public int Status { get; set; }
+        public string Description { get; set; }
     }
 
     public class Prog
@@ -64,4 +65,6 @@ namespace Expressions
             this.StatusValue = StatusValue;
         }
     }
+
+    
 }
